@@ -7,7 +7,7 @@ let pokeURL =
 
 function preload() {
   pokedexData = loadJSON("pokedex.json");
-  fontPixel = loadFont('/retro_computer_personal_use.ttf')
+  fontPixel = loadFont('retro_computer_personal_use.ttf')
 }
 
 function setup() {
