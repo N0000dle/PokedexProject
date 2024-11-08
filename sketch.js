@@ -1,5 +1,5 @@
 let pokedexData;
-let pokemonImages = [];
+//let pokemonImages = [];
 let pokemonList = [];
 let currentPokemon = 0;
 let pokeURL =
